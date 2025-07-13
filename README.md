@@ -7,6 +7,10 @@ Creating sqlite and postgreSQL tables from sas datasets dropdowns to sqlite and 
     Creating sqlite and postgreSQL tables from sas datasets dropdowns to sqlite and postgreSQL without sas access
     Blueprint for any databse access from sas without sas access
     Best run with the classic editor, note the display manager 'DM' commands.
+    
+    github
+    https://tinyurl.com/5mpbc23d
+    https://github.com/rogerjdeangelis/utl-creating-sqlite-and-postgresql-tables-from-sas-datasets-without-sas-access-and-a-blueprint
 
     MACROS
     ======
